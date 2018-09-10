@@ -16,5 +16,7 @@
     "url": "https://github.com/aboveaveragedev/Reddit_Imgur_Drive/issues"
   },
   "homepage": "https://github.com/aboveaveragedev/Reddit_Imgur_Drive#readme",
-  "dependencies": {}
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
